@@ -20,10 +20,12 @@ I also sharpen my skills daily with hands-on projects, challenges from Frontend 
 - Building real-world projects to showcase my skills
 - Applying for entry-level frontend roles
 
-### 📫 Let’s Connect
-- Portfolio: (in progress)
-- LinkedIn: (https://www.linkedin.com/in/margaret-martin-55807438/) (in progress)
-- Email: devmartin.codes@outlook.com
+### 📫 Let’s Connect   
+
+Margaret Martin  
+- [Portfolio](https://astounding-muffin-e43077.netlify.app/)  
+- [LinkedIn](https://www.linkedin.com/in/margaret-martin-55807438/)  
+Email: devmartin.codes\[at]outlook\[dot]com
 
 Thanks for stopping by!
 
